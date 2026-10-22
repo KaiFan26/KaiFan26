@@ -27,3 +27,6 @@ My internships have allowed me to gain experience in Power BI, Excel, Power Auto
 - My personal website!
 
 ## Fun Facts About Me
+- I love tennis and soccer.
+- My favorite sitcom is *Frasier*.
+- My favorite consoles are the PlayStation 4 and Nintendo Wii.
