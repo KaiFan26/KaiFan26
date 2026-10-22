@@ -24,7 +24,7 @@ My internships have allowed me to gain experience in Power BI, Excel, Power Auto
 
 ## Projects I'm Working On
 
-- My personal website!
+- My personal website! Keep an eye out for it.
 
 ## Fun Facts About Me
 - I love tennis and soccer.
