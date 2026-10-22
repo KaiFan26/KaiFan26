@@ -21,3 +21,9 @@ I enjoy working with React/Javascript, CSS, Python and SQL.
 I've also liked working with Java, C++ and Flutter in the past.
 
 My internships have allowed me to gain experience in Power BI, Excel, Power Automate and MS Office as well.
+
+## Projects I'm Working On
+
+- My personal website!
+
+## Fun Facts About Me
